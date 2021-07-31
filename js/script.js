@@ -94,7 +94,7 @@ btn[11].addEventListener('click',() => {
 // Switch css
 
 const toggle= document.getElementById('toggle')
-let theme=document.getElementsByTagName('link')[0]
+let theme=document.getElementsByTagName('link')[1]
 
 theme.setAttribute('href','css/style.css')
 
