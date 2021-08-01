@@ -54,6 +54,7 @@ ops[0].addEventListener('click',() => {
     operator=''
     s=''
     input.innerHTML=''
+    num1='',num2='',stack=[]
 })
 
 btn[11].addEventListener('click',() => {
